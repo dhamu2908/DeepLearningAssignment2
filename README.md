@@ -1,7 +1,7 @@
 # DeepLearningAssignment2  CS24M027  Dhamodharan Muthu Muniyandi
 This repository contains Python scripts and Jupyter notebooks used to produce the results presented in the accompanying report. For an in-depth explanation, please refer to the report included.
 
-Report Link :- https://wandb.ai/m_dhamu2908/DL_Assignment_2/reports/DA6401-Assignment-2--VmlldzoxMjM3MDUxMA?accessToken=fw93btj9bchaeliv32b5vlfebvag5m0496xc5eii4p6qrzc6v7hyc0no4evrsxps
+Report Link :- https://api.wandb.ai/links/m_dhamu2908/ofejtk2z
 
 🚀 How to Run
 🔧 partA_train.py
